@@ -1,0 +1,6 @@
+{
+  "name": "Toolora",
+  "description": "All your everyday online utility and productivity tools in one place.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
